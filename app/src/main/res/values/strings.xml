@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RetroApp</string>
+    <string name="get">Get</string>
+    <string name="type">Type of Problem</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="location">Location</string>
+    <string name="notes">Notes</string>
+    <string name="phone">Phone</string>
+    <string name="send">Send</string>
+    <string name="agreement">I agree to license and agreements</string>
+    <string name="select">Select Image</string>
+    <string name="takeimg">Image Snapshot</string>
+</resources>
