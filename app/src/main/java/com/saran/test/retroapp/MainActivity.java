@@ -44,7 +44,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String url = "http://ci.draftserver.com/hornsbyapp/webservice/";
+    private final String url = "enter your url here";
     private OkHttpClient okHttpClient;
     private static int IMAGE_CAPTURE_REQUEST = 1;
     private List<String> spinnerItems = new ArrayList<>();
